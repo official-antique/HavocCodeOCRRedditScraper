@@ -1,4 +1,5 @@
 # HavocCodeOCRRedditScraper
+Havoc code detection script written in Python.
 
     git clone https://github.com/official-antique/HavocOCRRedditScraper
     cd HavocOCRRedditScraper
