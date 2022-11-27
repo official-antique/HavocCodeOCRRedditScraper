@@ -1,5 +1,5 @@
 # HavocCodeOCRRedditScraper
-Havoc code detection script written in Python.
+Havoc repository code scraper for /r/jailbreak using OCR. 
 
     git clone https://github.com/official-antique/HavocOCRRedditScraper
     cd HavocOCRRedditScraper
